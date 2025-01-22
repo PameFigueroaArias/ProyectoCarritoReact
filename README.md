@@ -42,6 +42,6 @@ Este proyecto muestra el desarrollo utilizando React en el Frontend de la intera
 -Hooks: useState, useReducer para mejorar estados globales.
 -Estilos: CSS, Bootstrap.
 
-#Futuras Mejoras
+# Futuras Mejoras
 -Integración con un backend en Spring.
 -Pruebas unitarias y de integración.
