@@ -17,24 +17,24 @@ Este proyecto muestra el desarrollo utilizando React en el Frontend de la intera
    ```
 
 # Características principales
-1.Selección de productos:
+1. Selección de productos:
 - Muestra lista de productos disponibles.
 - Permite seleccionar sabor.
 - Permite seleccionar cantidad mediante un contador.
 
-2.Carrito de Compras
+2. Carrito de Compras
 - Presenta los productos seleccionados con sabor y cantidad.
 - Permite eliminar producto.
 - Permite navegar a la selección de productos para seguir comprando.
 
-2.1.Total Carrito
+2.1 Total Carrito
 - Visualiza el precio total de productos.
 - Permite seleccionar la región donde se desea despachar.
 - Muestra información del lugar seleccionado.
 - Muestra una descripción.
 - Presenta el total a pagar.
 
-3.Navbar
+3. Navbar
 - Barra de navegación con enlaces a las secciones: INICIO, PRODUCTOS.
 
   
